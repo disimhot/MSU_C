@@ -5,3 +5,10 @@ C:\Users\e.efimova\GitHub\MSU_C\task_1\MatrixMult\MatrixMult\obj\Debug\MatrixMul
 C:\Users\e.efimova\GitHub\MSU_C\task_1\MatrixMult\MatrixMult\obj\Debug\MatrixMult.csproj.CoreCompileInputs.cache
 C:\Users\e.efimova\GitHub\MSU_C\task_1\MatrixMult\MatrixMult\obj\Debug\MatrixMult.exe
 C:\Users\e.efimova\GitHub\MSU_C\task_1\MatrixMult\MatrixMult\obj\Debug\MatrixMult.pdb
+C:\Users\Elena\Documents\GitHub\MSU_C\task_1\MatrixMult\MatrixMult\bin\Debug\MatrixMult.exe.config
+C:\Users\Elena\Documents\GitHub\MSU_C\task_1\MatrixMult\MatrixMult\bin\Debug\MatrixMult.exe
+C:\Users\Elena\Documents\GitHub\MSU_C\task_1\MatrixMult\MatrixMult\bin\Debug\MatrixMult.pdb
+C:\Users\Elena\Documents\GitHub\MSU_C\task_1\MatrixMult\MatrixMult\obj\Debug\MatrixMult.csprojAssemblyReference.cache
+C:\Users\Elena\Documents\GitHub\MSU_C\task_1\MatrixMult\MatrixMult\obj\Debug\MatrixMult.csproj.CoreCompileInputs.cache
+C:\Users\Elena\Documents\GitHub\MSU_C\task_1\MatrixMult\MatrixMult\obj\Debug\MatrixMult.exe
+C:\Users\Elena\Documents\GitHub\MSU_C\task_1\MatrixMult\MatrixMult\obj\Debug\MatrixMult.pdb
