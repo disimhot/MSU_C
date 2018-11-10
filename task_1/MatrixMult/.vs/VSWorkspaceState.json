@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MatrixMult"
   ],
+  "SelectedNode": "\\MatrixMult\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
